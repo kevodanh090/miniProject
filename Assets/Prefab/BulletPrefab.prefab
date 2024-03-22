@@ -98,6 +98,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   explosionPrefab: {fileID: 4398948521478909359, guid: dd2c4a5c9bebb53489e212adb7e6c9cb, type: 3}
+  explosionRadius: 4
+  explosionForce: 20
 --- !u!1001 &6784461329196168807
 PrefabInstance:
   m_ObjectHideFlags: 0
